@@ -14,8 +14,10 @@ This demo implements object detection and tracking using Ultralytics YOLOv10 and
 1. Create a virtual environment:
    ```bash
    python -m venv venv
+   ```bash
    venv\Scripts\activate   # On Windows
    # or
+   ```bash
    source venv/bin/activate   # On Linux/macOS
 ````
 
