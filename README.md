@@ -1,6 +1,3 @@
-Sure! Here's the updated **README.md** with everything in one concise block:
-
----
 
 ````markdown
 # Yolo and Deep SORT based Object Detection and Tracking
@@ -36,9 +33,3 @@ This demo implements object detection and tracking using Ultralytics YOLOv10 and
    ```bash
    python yolo_detection_tracking.py
    ```
-
-```
-
----
-
-```
